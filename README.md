@@ -1,0 +1,2 @@
+# Flyer_Reading_Automation
+自動チラシ読みプログラム
