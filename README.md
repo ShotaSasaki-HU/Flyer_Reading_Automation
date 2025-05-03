@@ -1,5 +1,5 @@
 # Flyer_Reading_Automation
 自動チラシ読みプログラム
 <p>
-  <img src="Attached File/description.JPG" alt="description.JPG" width="600">
+  <img src="Attached File/description.JPG" alt="description.JPG" width="300">
 </p>
