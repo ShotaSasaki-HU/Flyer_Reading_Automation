@@ -5,7 +5,6 @@
 <p style="display: inline">
   <img src="https://img.shields.io/badge/-Python-3776AB.svg?logo=python&style=plastic">
   <img src="https://img.shields.io/badge/-Google%20cloud-4285F4.svg?logo=google-cloud&style=plastic">
-  <img src="https://img.shields.io/badge/-Apple-999999.svg?logo=apple&style=plastic">
   <img src="https://img.shields.io/badge/-Line-00C300.svg?logo=line&style=plastic">
 </p>
 
